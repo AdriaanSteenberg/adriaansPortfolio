@@ -3,7 +3,7 @@ export const projects = [
     title: "Teastation ",
     subtitle: "CSS and Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This is a wonderful site where you can order tea. Great setup and use of CSS and Javascript ",
     image: "./project-1.jpg",
     link: "https://teastationproject2.netlify.app",
   },
@@ -11,7 +11,7 @@ export const projects = [
     title: "Cocktails ",
     subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "With this site you can choose what cocktails you like, also in the details it will show you what is in the drink.",
     image: "./project-2.gif",
     link: "https://react-project1-cocktails.netlify.app/",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "Github user",
     subtitle: "React ",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This site you can search for Github users and check out their github sites.",
     image: "./project-3.gif",
     link: "https://project4-githubuser-search.netlify.app",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "Travel App",
     subtitle: "Javascript and CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A travel application that can assist you in finish wonderful holidays.",
     image: "./project-4.gif",
     link: "https://backroadsproject.netlify.app",
   },
@@ -46,21 +46,21 @@ export const projects = [
     description:
       "This is an app like facebook.",
     image: "./project-6.gif",
-    link: "https://project3confystore.netlify.app/",
+    link: "https://tindoggrimm.netlify.app/",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "The guys i put in here is not real was just testing out.So comment as much as you like",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Zoozle",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Time will come when the portfolio will do great things for me",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
     company: "Dooble.io",

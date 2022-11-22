@@ -16,6 +16,9 @@ JavaScript Training complete.
 HTML 5, CSS 3, JavaScript ES6, DOM Manipulation, jQuery, Bash Command Line, Git, GitHub and Version Control.
 
 Worked with Windows Server 2008, Windows Server 2003 and Win NT server. Also experience supporting SBS2003, SBS2008 and SBS2011.Working on installing Server 2012, Server 2012 R2, Server 2019. 
+<br/>
+<br/>
+If you need my full resume please let me know.
 
           </p>
           <div className="flex justify-center">

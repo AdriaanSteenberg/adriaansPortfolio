@@ -37,7 +37,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/@-25.7473024,29.4708057,17z"
+            src=""
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
@@ -45,8 +45,8 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                50 Kanarie Ave. <br />
-                Middelburg, Mpumalanga, 1050
+                Middelburg <br />
+                Mpumalanga, South-Africa
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -72,8 +72,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            Drop me a mail, Give me a call. Always available.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
@@ -112,8 +111,8 @@ export default function Contact() {
               onChange={(e) => setMessage(e.target.value)}
             />
           </div>
-          <button
-            type="submit"
+          <button 
+            type="submit" 
             className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
             Submit
           </button>
